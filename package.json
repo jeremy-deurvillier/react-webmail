@@ -1,0 +1,27 @@
+{
+  "name": "react-webmail",
+  "version": "1.0.0",
+  "description": "Read and write your emails with react-webmail.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremy-deurvillier/react-webmail.git"
+  },
+  "author": "Jérémy Deurvillier",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jeremy-deurvillier/react-webmail/issues"
+  },
+  "homepage": "https://github.com/jeremy-deurvillier/react-webmail#readme",
+  "dependencies": {
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
